@@ -18,5 +18,5 @@ The contents of this repository are licensed under CC-BY-NC-SA
 # Credits
 Photographs by Mary Chester-Kadwell, processing and models by Daniel Pett <dpett@britishmuseum.org>, Digital Humanities Lead, British Museum and Mary Chester-Kadwell <mchester-kadwell@britishmuseum.org>
 
-#Processing
+# Processing
 Created by Mary Chester-Kadwell from 90 images taken with a Sony A6000 and assembled in Photoscan Pro.
