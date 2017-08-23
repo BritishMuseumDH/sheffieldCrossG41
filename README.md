@@ -1,5 +1,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+[![DOI](https://zenodo.org/badge/99087618.svg)](https://zenodo.org/badge/latestdoi/99087618)
+
 
 # A 3D representation of the Sheffield Cross
 3D data for recreation of the Sheffield Cross, a British Museum object in Gallery 41.
